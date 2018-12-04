@@ -3364,7 +3364,7 @@ input, select, textarea {
 			font-size: 1.25rem;
 			font-style: italic;
       margin-top: -0.25rem;
-      margin-bottom: 10rem;
+      margin-bottom: 6rem;
 			text-align: center;
 		}
 
@@ -3453,7 +3453,7 @@ input, select, textarea {
 				#intro p {
 					font-size: 1.25rem;
           margin-top: 0rem;
-          margin-bottom: 12rem;
+          margin-bottom: 10rem;
 				}
 
 				#intro .actions {
